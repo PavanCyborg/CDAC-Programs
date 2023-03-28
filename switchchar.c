@@ -1,3 +1,15 @@
+/*
+Develop a C program which accepts character type data items from users. In case if user
+typed
+‘A’ or ‘a’, it should display A for Apple
+‘B’ or ‘b’, it should display B for Bat
+‘D’ or ‘d’, it should display D for Dog
+‘F’ or ‘f’, it should display F for Fan
+Instead of the above 4 characters, if a user types any other character, it should display
+“Character is not in the range”. Implement this using if-else statement and switch
+statement.
+*/
+
 #include <stdio.h>
 int main()
 {
