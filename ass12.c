@@ -1,3 +1,7 @@
+/*
+12. Write a program to print all the prime numbers in the first N numbers.
+*/
+
 #include<stdio.h>
 int isprime(int n)
 {
