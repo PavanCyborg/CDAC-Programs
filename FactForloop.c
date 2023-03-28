@@ -1,3 +1,4 @@
+//4. Develop a C program to find factorial of a number N using for loop.
 #include<stdio.h>
 double factorial(int n)
 {
