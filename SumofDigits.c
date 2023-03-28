@@ -1,3 +1,4 @@
+//13. Write a program to find the sum of digits of a given number
 #include<stdio.h>
 int main()
 {
