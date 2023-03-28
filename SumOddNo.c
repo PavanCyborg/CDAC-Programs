@@ -1,3 +1,5 @@
+//5. Develop a C program to find the sum of all odd numbers upto N using a while loop.
+
 #include<stdio.h>
 int main()
 {
