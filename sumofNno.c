@@ -1,3 +1,7 @@
+/*
+3. Develop a C program which adds all numbers from 1 to N, except those which are divisible
+by 5. Implement this using for loop and continue statement.
+*/
 #include <stdio.h>
 
 int main()
